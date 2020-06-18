@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Lauren Green</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">Lauren is a creative soul who loves coding, designing and creating new things.
+        \n\nLauren firmly believes that you can learn anything you want to; she is a self-taught data analyst/ Business Intellingence Analyst having studied Chemical Engineering at UCT.
+        \n\nLauren is currently learning Kotlin to become an Android Developer.
+        \n\nHer dream is to create Android apps that are seamless and easy to use from a UX perspective and that combine beautiful and up to date UI.
+        \n\nShe is obsessive about writing code that is well documented, easy to follow and conforms to coding guidelines.
+        \n\nLauren loves the outdoors, experiencing new places and cultures and is always busy planning her next adventure!</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
